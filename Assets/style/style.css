@@ -11,6 +11,7 @@ html {
 
 .nav {
     background-color: rgb(255, 255, 255);
+    width: 100%;
 }
 .logo-image{
     padding-left: 30px;
@@ -93,6 +94,7 @@ b{
 }
 
 .footer{
+    
     padding-left:60px;
     background-color: rgb(82, 82, 82) ;
 }
@@ -138,4 +140,8 @@ h6{
 .logosol{
     width: 350px;
     border-radius: 30px;
+}
+
+.pillars{
+    align-items: center;
 }

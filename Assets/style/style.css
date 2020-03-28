@@ -43,11 +43,15 @@ a:hover {
     height: 302px;
 }
 
-b{
+.newlogo{
     padding-top: 20px;
     font-size:36px;
 }
 
+.row{
+    padding:0%;
+    margin: 0%;
+}
 
 .findout{
     color: rgb(11, 187, 11);
@@ -91,6 +95,7 @@ b{
 
 .servisb{
     padding-left: 30px;
+    font-size:36px;
 }
 
 .footer{
@@ -143,5 +148,33 @@ h6{
 }
 
 .pillars{
-    align-items: center;
+    padding-left: 10px;
+    padding-right: 70px;
+}
+
+.about3{
+    border-radius: 20px;
+    width: 600px;
+    margin-left: 5%;
+}
+
+.servicess{
+    padding-right: 25%;
+    
+}
+
+.economy{
+    border-radius: 20px;
+    width: 600px;
+    ;
+    margin-right: 30px;
+}
+
+.ecoimpa{
+    margin-left: 5%;
+    font-size: 36px;
+}
+
+.paragraf{
+    margin-left: 5%;
 }
